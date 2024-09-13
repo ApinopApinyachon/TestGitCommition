@@ -17,3 +17,7 @@ nav{
 h1 {
     text-align: center;
 }
+
+h2{
+    text-emphasis: none;
+}
