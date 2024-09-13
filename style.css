@@ -1,0 +1,29 @@
+* {
+   color: red; 
+}
+
+body {
+    border: 1px solid;
+}
+
+div {
+    border: 1px;
+}
+
+nav{
+    border: 10px;
+}
+
+h1 {
+    text-align: center;
+}
+
+h2{
+    text-emphasis: none;
+}
+h3{
+    text-align: center;
+}
+h4{
+    text-decoration: floralwhite;
+}
